@@ -1,0 +1,90 @@
+body{
+	font-family: 'Public Sans', sans-serif;	
+}
+
+.navbar{
+	border-radius: 0px;
+	background-color: black;
+	border: none;
+
+
+}
+
+
+
+a.navbar-brand span{
+	color: #ff0066;
+	font-weight: bold;
+	font-family: 'Yellowtail', cursive;
+
+}
+
+#myNavbar span{
+	color: white;
+}
+
+h1{
+	}
+
+
+* {
+  box-sizing: border-box;
+}
+
+/* Add padding to containers */
+.signupform {
+  padding: 16px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for the submit button */
+.registerbtn {
+  background-color: #ff0066;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+  border-radius: 2px;
+}
+
+.registerbtn:hover {
+  opacity: 1;
+}
+
+/* Add a blue text color to links */
+a {
+  color: dodgerblue;
+}
+
+/* Set a grey background color and center the text of the "sign in" section */
+.signin {
+  background-color: #f1f1f1;
+  text-align: center;
+}
