@@ -1,0 +1,36 @@
+CASA STAYS GENERAL INSTRUCTIONS FOR CODING 
+
+Hey guys, I have created a repository called casa stays on github. You can clone this to your PC. 
+I have created the signup and signin pages. 
+
+So we are gonna be working on different pages on our websites, lets have some common paradigms like fonts and stuff we'll follow while designing our stuff. 
+
+
+We'll store our style sheets in css folder. 
+Java scripts in js folder. 
+All our pages will be outside these folders.(You'll get it when you clone the repo). 
+
+I have created a page called skeleton.html which has the basic layout for all our pages. Run that and see once. 
+Skeleton page has its respective style sheet in css folder. 
+
+So lets say you are creating a home page. 
+What you have to do is, copy the code from skeleton.html and paste it in a new file called home.html and edit that. 
+The basic styles will be included already like fonts and stuff. Include skeleton.css in all your pages so that you'll have the common 
+styles. PLEASE DO NOT EDIT IN THE SKELETON.HTML OR THE SKELETON.CSS file.
+
+I have used a color code for casa stays. So please include the color touch wherever you can. 
+
+Also, I thought it would be easier, instead of editing pradyum's older project, take code from it and paste it in your page and 
+edit it to your needs. But feel free to work according to your comfort, but please make sure your page is stored in casastays repo. 
+
+1. RUN SKELETON.HTML FIRST
+2. THEN, RUN SIGNUP.HTML 
+3. YOU CAN CLICK ON SIGNIN IN THE NAVBAR AND SEE THE SIGN IN PAGE. 
+4. PLEASE OPEN THE HTML CODES AND READ THE COMMENTS AND STUFF. 
+5. ALSO, PLEASE READ THROUGH THE CODES SO THAT WE'LL BE ON TOP OF EACH OTHER'S STUFF. 
+
+
+MOST IMPORTANT: PLEASE USE COMMENTS IN YOUR PAGES SO THAT WE'LL UNDERSTAND THE CODES EASIER. 
+
+These are just basic instructions from my side I have assumed for now, If you guys feel the need the change anything, 
+please don't hesitate to discuss. 
